@@ -6,5 +6,8 @@ class Program
     {
         var numero = 20;
         Console.WriteLine(numero);
+        
+var texto = "TESTE novo";
+        Console.WriteLine(texto);
     }
 }
